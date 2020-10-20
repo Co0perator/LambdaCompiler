@@ -5,6 +5,7 @@ Section 1: Language Rules
 
 1. Every function and variable of any kind shall be reffered to as a Box.
 2. Boxes will contain a pointer to whatever data or function they represent
+3. The file extension of LambdaLang source code files will be .lambda and header files, referred to in LambdaLang vocabulary as "definition files" will have the have the file extension of .ldef
 . unchanging variables and functions, known as "constants" shall be made using the DEFINE token
 
 Section 2: Language Tokens
